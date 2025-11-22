@@ -1,5 +1,5 @@
 {
-  "name": "Риск инсульта",
+  "name": "Мой Риск",
   "short_name": "Мой Риск",
   "description": "Оценка риска инсульта за 6 месяцев",
   "start_url": "/stroke-risk-app/",
